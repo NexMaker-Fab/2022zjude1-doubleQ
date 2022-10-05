@@ -3,9 +3,9 @@
 * [首页](README.md)
 * [操作指南](guide.md)
 
-* [团队介绍](introduce.md)
+* [团队介绍](Team_introduce/introduce/)
 
-* 小组成员
+* 团队成员
     * [张思洲](Team_member/zsz/)
     * [舒诗琦](Team_member/hsq/)
     * [李嘉钰](Team_member/ljy/)
