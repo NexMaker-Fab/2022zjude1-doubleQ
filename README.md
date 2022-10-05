@@ -6,4 +6,4 @@
 
 hello!!
 
-[>>操作指南sidebar9](guide.md)
+[>>操作指南](guide.md)
