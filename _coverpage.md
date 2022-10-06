@@ -1,6 +1,6 @@
 <!-- /_coverpage.md -->
 
-![logo](coverpic.jpg)
+![logo](room.jpg)
 
 # DoubleQ <small>ZJU</small>
 
