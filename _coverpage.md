@@ -1,6 +1,6 @@
 <!-- /_coverpage.md -->
 
-![logo](room.jpg)
+![logo](roomxiao.jpg)
 
 # DoubleQ <small>ZJU</small>
 
