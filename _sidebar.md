@@ -17,4 +17,4 @@
     * [IOT_Interaction](Course_practice/IOT_Interaction/)
 
 * 最终项目
-    * [project_hatch](Final_project/project_hatch) 
+    * [project_hatch](Final_project/project_hatch/) 
