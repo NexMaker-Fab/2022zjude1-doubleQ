@@ -3,14 +3,7 @@
 * [首页](README.md)
 * [操作指南](guide.md)
 
-* 团队信息
-    * [团队介绍](Team_member/introduce/)
-    * [张思洲](Team_member/zsz/)
-    * [舒诗琦](Team_member/hsq/)
-    * [李嘉钰](Team_member/ljy/)
-    * [李正可](Team_member/lzk/)
-    * [程艺明](Team_member/cym/)
-    * [李啸龙](Team_member/lxl/)
+* [团队信息](Team.md)
 
 * 课程进度
     * [project_manage](Course_practice/project_manage/) 
