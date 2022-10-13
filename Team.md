@@ -4,7 +4,7 @@
 
  **舒诗淇**
 
- **李正可**
+ **李正可** <br>
  hi！我是Bella！中文名李正可，游戏名BloodyBellaLee。叫我coco，小可也都可以！
  设计爱好者初学者 
  想法多元乱七八糟者
@@ -18,7 +18,7 @@
 
  **程艺明**
 
- **李啸龙**
+ **李啸龙** <br>
  Nice to meet you!
  I'm Li Xiaolong or you can call me Lionel.We live in an era full of technological black boxes, I am infinitely curious about this one black box, becoming a designer is the process of opening one black box after another, nice to meet you! I hope to walk with you.
  My hobbies
