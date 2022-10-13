@@ -5,7 +5,7 @@
  **舒诗淇**
 
  **李正可** <br>
- hi！我是Bella！中文名李正可，游戏名BloodyBellaLee。叫我coco，小可也都可以！
+ hi！我是Bella！中文名李正可，游戏名BloodyBellaLee。叫我coco，小可也都可以！  
  设计爱好者初学者 
  想法多元乱七八糟者
  致力于设计一些自我认为有趣的东西
