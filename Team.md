@@ -13,11 +13,10 @@
  各类画画爱好者
  全部球类运动和全部猫猫狗狗狂热者
  旅游玩耍快乐追求者
-
  **李嘉钰**
 
  **程艺明**
-
+ I graduated from Northeast Forestry University with a bachelor's degree. I can use modeling software such as proe,Rhino and alias, but I lack programming ability. I like reading, drawing and singing. I hope to improve my software and programming ability and make progress in teamwork through the course of design engineering.
  **李啸龙** <br>
  Nice to meet you!
  I'm Li Xiaolong or you can call me Lionel.We live in an era full of technological black boxes, I am infinitely curious about this one black box, becoming a designer is the process of opening one black box after another, nice to meet you! I hope to walk with you.
