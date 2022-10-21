@@ -11,6 +11,8 @@
 - 键入`*[操作指南](guide)`
 
 # 图床 
-- 选择开源免费图片上传与管理工具Picgo,
+- 选择开源免费图片上传与管理工具Picgo
+
 ![图片测试](https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/chi.png)
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/chi.png" width="60%">
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/chi.png" width="30%">
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/chi.png" width="80%">
