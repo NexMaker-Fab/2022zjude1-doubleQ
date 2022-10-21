@@ -6,7 +6,6 @@
 
  **舒诗淇**
 
- 
  **李正可** 
 
  hi！我是Bella！中文名李正可，游戏名BloodyBellaLee。叫我coco，小可也都可以！  
@@ -27,7 +26,7 @@
  I graduated from Northeast Forestry University with a bachelor's degree. I can use modeling software such as proe,Rhino and alias, but I lack programming ability. I like reading, drawing and singing. I hope to improve my software and programming ability and make progress in teamwork through the course of design engineering.
 
  **李啸龙** 
- 
+
  🧐 Nice to meet you!
  I'm Li Xiaolong or you can call me Lionel.
  We live in an era full of technological black boxes, I am infinitely curious about this one black box, becoming a designer is the process of opening one black box after another, nice to meet you! I hope to walk with you.
