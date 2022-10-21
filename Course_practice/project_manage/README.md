@@ -12,4 +12,5 @@
 
 # 图床 
 - 选择开源免费图片上传与管理工具Picgo,
-![图片测试](https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/chi.png "图片标题")
+![图片测试](https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/chi.png)
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/chi.png" width="60%">
