@@ -29,7 +29,7 @@
 
  🧐 Nice to meet you!  
  I'm Li Xiaolong or you can call me Lionel.  
- We live in an era full of technological black boxes, I am infinitely curious about this one black box, becoming a designer is the process of opening one black box after another, nice to meet you! I hope to walk with you.
+ We live in an era full of technological black boxes, I am infinitely curious about this one black box, becoming a designer is the process of opening one black box after another, nice to meet you! I hope to walk with you.  
  🐱‍🚀 My hobbies  
  I like videography and photography, images can bring me inspiration and vitality.
  Dynamic design and concept design.
