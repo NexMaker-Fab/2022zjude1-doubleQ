@@ -16,7 +16,8 @@
 2. 在github上新建图片仓库
 3. 进入图床设置-GitHub图床
 4. 获取[密钥](https://www.nexmaker.com/doc/1projectmanage/imageuploadservice.html)
-5. 完成Picgo配置  
-   <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/picgo_peizhi.png" width="80%">
-   ![图片测试](https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/chi.png)
-6. 获取图片链接，使用markdown图片上传语法即可完成导入
+5. 设定自定义域名**使用cdn加速**`https://cdn.jsdelivr.net/gh/用户名/图床仓库名`，完成Picgo设置
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/picgo_peizhi.png" width="50%">  
+
+6. 获取图片链接，使用markdown图片上传语法即可完成导入  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/pic_link.png" width="80%">
