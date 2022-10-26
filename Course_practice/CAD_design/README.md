@@ -5,17 +5,29 @@ Fusion 360 是一款基于远程服务的三维建模、CAD、CAM、CAE 和 PCB 
 
 ## Fusion360申请教育优惠  
 
-1. 使用[教育优惠](https://github.com/Molunerfinn/PicGo/releases)
-2. 在注册账号时，使用教育邮箱可直接注册为教育版本  
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/fusion360教育版本.png" width="70%">  
-   
+1. 进入[Autodesk Fusion 360官方中文网站](https://www.autodesk.com.cn/products/fusion-360/overview)选择下载免费试用版
+2. 选择教育用途
+3. 在注册账号时，使用教育邮箱即可注册为教育版本    
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/fusion360教育版本.png" width="40%">  
+
 ## Solidworks简介  
 
 Solidworks操作与Fusion 360比较类似，适用于机械零件的建模
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/20221026204456.png" width="70%"> 
 
-## Fusion360插件尝试
+## Fusion360参数实践  
 
+1. 修改-更改参数，进行用户参数设置，注意有的字母会与软件系统按键冲突，会标红提醒
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/yonghucanshu.png" width="70%">   
+
+2. 进行初始草图绘制
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/chushi.png" width="70%">   
+
+3. 设置自定义参数
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/canshu.png" width="70%">   
+
+4. 完成模型
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/canshumoxing.png" width="70%">   
 
 - 从排气发散端开始绘制草图
 - 将排气出口固定件阵列复制四个
