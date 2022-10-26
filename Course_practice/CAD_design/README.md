@@ -7,7 +7,8 @@ Fusion 360 是一款基于远程服务的三维建模、CAD、CAM、CAE 和 PCB 
 
 1. 进入[Autodesk Fusion 360官方中文网站](https://www.autodesk.com.cn/products/fusion-360/overview)选择下载免费试用版
 2. 选择教育用途
-3. 在注册账号时，使用教育邮箱即可注册为教育版本    
+3. 在注册账号时，使用教育邮箱即可注册为教育版本  
+    
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/fusion360教育版本.png" width="40%">  
 
 ## Solidworks简介  
