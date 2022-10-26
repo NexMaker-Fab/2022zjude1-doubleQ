@@ -27,7 +27,10 @@ Solidworks操作与Fusion 360比较类似，适用于机械零件的建模
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/canshu.png" width="70%">   
 
 4. 完成模型
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/canshumoxing.png" width="70%">   
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/canshumoxing.png" width="70%">  
+
+5. 更改用户参数即可变更模型，这里将f1由200mm变更为160mm
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/genggai.png" width="70%"> 
 
 - 从排气发散端开始绘制草图
 - 将排气出口固定件阵列复制四个
