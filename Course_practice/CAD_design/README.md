@@ -8,7 +8,7 @@ Fusion 360 是一款基于远程服务的三维建模、CAD、CAM、CAE 和 PCB 
 1. 进入[Autodesk Fusion 360官方中文网站](https://www.autodesk.com.cn/products/fusion-360/overview)选择下载免费试用版
 2. 选择教育用途
 3. 在注册账号时，使用教育邮箱即可注册为教育版本  
-    
+
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/fusion360教育版本.png" width="40%">  
 
 ## Fusion360参数实践  
@@ -72,15 +72,15 @@ Fusion 360 是一款基于远程服务的三维建模、CAD、CAM、CAE 和 PCB 
 14. 拉伸新建固定板
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/14.png" width="70%">
 
-15. 拉伸新建固定板
+15.  阵列切割出孔位
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/15.png" width="70%">
-
-16. 阵列切割出孔位
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/16.png" width="70%">
 
 ## Fusion360工程图  
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/tuzhi.png" width="70%">
 
 ## Solidworks简介  
 Solidworks操作与Fusion 360比较类似，适用于机械零件的建模
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/20221026204456.png" width="70%"> 
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/20221026204456.png" width="70%">   
+
+## 资料参考  
+[Fusion360工程图制作]("https://www.bilibili.com/video/BV1FA411M7VN/?spm_id_from=333.337.search-card.all.click&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb")  
