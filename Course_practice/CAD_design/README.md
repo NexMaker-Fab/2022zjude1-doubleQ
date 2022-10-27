@@ -11,11 +11,6 @@ Fusion 360 是一款基于远程服务的三维建模、CAD、CAM、CAE 和 PCB 
     
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/fusion360教育版本.png" width="40%">  
 
-## Solidworks简介  
-
-Solidworks操作与Fusion 360比较类似，适用于机械零件的建模
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/20221026204456.png" width="70%"> 
-
 ## Fusion360参数实践  
 
 1. 修改-更改参数，进行用户参数设置，注意有的字母会与软件系统按键冲突，会标红提醒
@@ -33,9 +28,59 @@ Solidworks操作与Fusion 360比较类似，适用于机械零件的建模
 5. 更改用户参数即可变更模型，这里将f1由200mm变更为160mm
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/genggai.png" width="70%"> 
 
-- 从排气发散端开始绘制草图
-- 将排气出口固定件阵列复制四个
-- 绘制3d草图，定义扫略路径SSss
-- 合并四个排气管实体
-- 选取五个端口进行抽壳
-- 对排气管相交
+## Fusion360装配体实践
+
+1. 绘制排气口草图
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/111.png" width="70%">   
+
+2. 拉伸排气口固定片实体
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/222.png" width="70%">   
+
+3. 绘制排气口和螺丝固定孔位
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/333.png" width="70%"> 
+
+4. 阵列复制排气口
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/444.png" width="70%">
+
+5. 定义偏移构造平面
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/555.png" width="70%">
+
+6. 绘制排气入口垫片草图
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/666.png" width="70%">
+
+7. 拉伸排气入口垫片实体
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/777.png" width="70%">
+
+8. 拉伸排气入口垫片实体
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/888.png" width="70%">
+
+9. 扫略形成排气管主体
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/999.png" width="70%">
+
+10. 重复步骤绘制另一根排气管
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/10.png" width="70%">
+
+11. 进行镜像阵列
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/11.png" width="70%">
+
+12. 对排气管进行抽壳
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/12.png" width="70%">
+
+13. 对排气管接缝进行倒角
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/13.png" width="70%">
+
+14. 拉伸新建固定板
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/14.png" width="70%">
+
+15. 拉伸新建固定板
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/15.png" width="70%">
+
+16. 阵列切割出孔位
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/16.png" width="70%">
+
+## Fusion360工程图  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/tuzhi.png" width="70%">
+
+## Solidworks简介  
+Solidworks操作与Fusion 360比较类似，适用于机械零件的建模
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/20221026204456.png" width="70%"> 

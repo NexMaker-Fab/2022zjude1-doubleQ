@@ -1,1 +1,1 @@
-### 我们的项目是 Modular Electronic Teaching Aids for Children
+### Paper Circuits Teaching Aids for Children
