@@ -1,6 +1,6 @@
 <!-- /_coverpage.md -->
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/xiuhu.png" width="70%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/xiuhu.png" width="50%">  
 
 # DoubleQ <small>ZJU</small>
 
