@@ -5,17 +5,17 @@
 ### Do one demo in processing which can use mouse or keyboard to interactive
 > #### demo简介  
 
-利用Processing实现**锻炼手眼协调能力**的小游戏
-> #### 游戏介绍   
+利用Processing实现**锻炼手眼协调能力**的小游戏，从屏幕四面八方随机出现红蓝两种颜色的小球，玩家通过键盘改变中心大球的颜色，若大小球接触时颜色一致，加一分，反之减两分，由于每个小球有不一样的初速度与加速度，因此玩家需要进行一定程度的预判。  
+> #### 技术原理 
 
-从屏幕四面八方随机出现红蓝两种颜色的小球，玩家通过键盘改变中心大球的颜色，若大小球接触时颜色一致，加一分，反之减两分，由于每个小球有不一样的初速度与加速度，因此玩家需要进行一定程度的预判。  
-> #### 代码解析    
+Processing类的用法（没写完）
+> #### processing代码解析    
 
 **小球功能实现**
 ```javascript
 Enemy [] enemys = new Enemy[10];
 ```
-声明小球的对象数组，数量为10个，
+声明小球的对象数组，数量为10个
 
 ```javascript
 for(int i = 0;i<enemys.length;i++)
@@ -190,13 +190,14 @@ float voice;//用来储存音乐的音量
 导入ddf.minim库  
 打开Processing，选择 【Tools】-【Add Tool】，打开Contribution Manager  
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/processingku1.png" width="70%"> 
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/processingku1.png" width="70%">  
+
 然后选择Libraries，搜索minim。选择Minim库，再选择Install。等待安装完成即可  
 
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/processingku2.png" width="70%">   
 
 ```javascript
-minim = new Minim(this);  //面向对象编程  
+minim = new Minim(this); 
 bgm = minim.loadFile("bgm.mp3", 1024); //jingle.mp3：此处加载的音乐名称需要与data文件中一致，1024:提取音乐频率,数值为2的幂次方                           
 bgm.loop();                             
 ```
@@ -217,11 +218,66 @@ void display()
 
 > #### 参考资料
 [Processing-对象（class）]("https://blog.csdn.net/liuxiao723846/article/details/82051791")  
+
 [二锅头【Processing】雷霆战机]("https://www.bilibili.com/video/BV11Z4y1H7hw/?spm_id_from=333.999.0.0&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb")   
+
 [Processing（1.5 一些有趣的库）]("https://zhuanlan.zhihu.com/p/349092863") 
 
-### Do one demo in processing and arduino ,which can communicate with each other
 
+### Do one demo in processing and arduino,which can communicate with each other
+> #### demo介绍  
+
+利用Processing和arduino实现**锻炼手指抓握力**的小游戏，在上个demo的基础上，利用弯曲传感器检测手指弯曲角度，通过手指抓握来替代键盘，可帮助中风患者手部锻炼  
+> #### 技术原理 
+
+Processing和arduino利用串口通信（没写完）
+> #### 代码解析    
+
+**processing代码解析**
+```javascript  
+import processing.serial.*;
+Serial myport;
+```  
+加载processing.serial库  
+
+```javascript  
+myport = new Serial(this,"COM6",9600); 
+```  
+在void setup()中设定与arduino串口通信端口号与波特率    
+
+```javascript  
+  if (myport.available() > 0)//如果串口有数据
+  { 
+    int val = myport.read();//读取串口数据  
+    if(val>60){status=0;}
+    if(val<60){status=1;}
+  }  
+```    
+在void draw()中使用myport.read()接收来自arduino发送至串口的数据 
+
+**arduino代码解析**
+```javascript  
+int flexSensorPin = A0;//定义弯曲传感器引脚为A0
+int flexSensorReading;//定义弯曲传感器直接输出的度数
+int flexAngle;//定义转换后的角度
+```  
+一些初始定义   
+
+```javascript  
+void flex_detect()
+{
+    flexSensorReading = analogRead(flexSensorPin);
+    flexAngle = map(flexSensorReading,620,860,0,90);
+    Serial.write(flexAngle); 
+    delay(500);
+}
+```
+在void loop()中读取A0引脚的模拟量，将直接读数映射至0至90°，然后使用Serial.write将数据发送至串口  
+
+> #### 参考资料
+[Serial.print()函数与Serial.write()函数的区别]("https://blog.csdn.net/qq_36895854/article/details/88925939?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166731541816800192274182%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166731541816800192274182&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-88925939-null-null.142^v62^pc_search_tree,201^v3^control_1,213^v1^control&utm_term=serial.write%E5%92%8Cserial.print&spm=1018.2226.3001.4187")  
+
+[Processing+Arduino互动编程]("https://blog.csdn.net/wangpuqing1997/article/details/105201551?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166731442916800180628440%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166731442916800180628440&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-105201551-null-null.142^v62^pc_search_tree,201^v3^control_1,213^v1^control&utm_term=arduino%20processing&spm=1018.2226.3001.4187")   
 
 ### Try to communicate with Kinect,Leapmotion or IOT platform
 
