@@ -189,8 +189,10 @@ float voice;//用来储存音乐的音量
 ```
 导入ddf.minim库  
 打开Processing，选择 【Tools】-【Add Tool】，打开Contribution Manager  
+
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/processingku1.png" width="70%"> 
 然后选择Libraries，搜索minim。选择Minim库，再选择Install。等待安装完成即可  
+
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/processingku2.png" width="70%">   
 
 ```javascript
@@ -214,8 +216,8 @@ void display()
 在class Enemy()中将小球半径与音量大小关联，使游戏更加生动，巧妙绝伦  
 
 > #### 参考资料
-[Processing-对象（class）]("https://blog.csdn.net/liuxiao723846/article/details/82051791") 
-[二锅头【Processing】雷霆战机]("https://www.bilibili.com/video/BV11Z4y1H7hw/?spm_id_from=333.999.0.0&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb") 
+[Processing-对象（class）]("https://blog.csdn.net/liuxiao723846/article/details/82051791")  
+[二锅头【Processing】雷霆战机]("https://www.bilibili.com/video/BV11Z4y1H7hw/?spm_id_from=333.999.0.0&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb")   
 [Processing（1.5 一些有趣的库）]("https://zhuanlan.zhihu.com/p/349092863") 
 
 ### Do one demo in processing and arduino ,which can communicate with each other
