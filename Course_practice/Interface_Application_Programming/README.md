@@ -216,7 +216,8 @@ void display()
 ```
 在class Enemy()中将小球半径与音量大小关联，使游戏更加生动，巧妙绝伦  
 
-> #### 参考资料
+> #### 参考资料   
+
 [Processing-对象（class）]("https://blog.csdn.net/liuxiao723846/article/details/82051791")  
 
 [二锅头【Processing】雷霆战机]("https://www.bilibili.com/video/BV11Z4y1H7hw/?spm_id_from=333.999.0.0&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb")   
@@ -274,7 +275,8 @@ void flex_detect()
 ```
 在void loop()中读取A0引脚的模拟量，将直接读数映射至0至90°，然后使用Serial.write将数据发送至串口  
 
-> #### 参考资料
+> #### 参考资料  
+
 [Serial.print()函数与Serial.write()函数的区别]("https://blog.csdn.net/qq_36895854/article/details/88925939?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166731541816800192274182%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166731541816800192274182&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-88925939-null-null.142^v62^pc_search_tree,201^v3^control_1,213^v1^control&utm_term=serial.write%E5%92%8Cserial.print&spm=1018.2226.3001.4187")  
 
 [Processing+Arduino互动编程]("https://blog.csdn.net/wangpuqing1997/article/details/105201551?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166731442916800180628440%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166731442916800180628440&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-105201551-null-null.142^v62^pc_search_tree,201^v3^control_1,213^v1^control&utm_term=arduino%20processing&spm=1018.2226.3001.4187")   
