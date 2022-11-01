@@ -11,7 +11,7 @@
 **小球功能实现**
 `Enemy [] enemys = new Enemy[10];`
 定义小球的对象数组，数量为10个
-````
+```javascript
 for(int i = 0;i<enemys.length;i++)
 {
     int ballc = int(random(0,1)<0.5 ? 1 : 0);
@@ -19,7 +19,7 @@ for(int i = 0;i<enemys.length;i++)
     float cy = (random(0,1) < 0.5 ? 1 : -1)* sqrt(abs(random(1000001,4000000)-cx*cx));
     enemys[i] = new Enemy(ballc,cx,cy);    
 } 
-````
+```
 
 ### Do one demo in processing and arduino ,which can communicate with each other
 
