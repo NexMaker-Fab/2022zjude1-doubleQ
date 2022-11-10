@@ -1,10 +1,9 @@
 <!-- /_sidebar.md -->
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/logo.jpg" width="50%"><!-- LOGO -->  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/logo2.jpg" width="80%"><!-- LOGO -->  
 
 * [首页](README.md)
 * [操作指南](guide.md)
-
 * [团队信息](Team.md)
 
 * 课程进度
