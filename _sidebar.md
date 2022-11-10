@@ -1,6 +1,7 @@
 <!-- /_sidebar.md -->
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/logo.jpg" width="50%"><!-- LOGO -->
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/logo.jpg" width="50%"><!-- LOGO -->  
+
 * [首页](README.md)
 * [操作指南](guide.md)
 
