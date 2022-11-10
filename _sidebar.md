@@ -1,6 +1,6 @@
 <!-- /_sidebar.md -->
 
-<div>由<a href="https://www.designevo.com/tw/" title="免費的線上標誌製做器">DesignEvo</a>製作的標誌</div><!-- LOGO -->
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/logo.jpg" width="50%"><!-- LOGO -->
 * [首页](README.md)
 * [操作指南](guide.md)
 
