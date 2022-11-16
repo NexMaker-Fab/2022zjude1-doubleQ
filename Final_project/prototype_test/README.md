@@ -11,7 +11,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/功能框架.png" width="100%">   
   
-**主控芯片**   
+**主控芯片**     
 本设计使用ESP12F作为主控芯片。  
 
 **识别模块**  

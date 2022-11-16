@@ -1,5 +1,11 @@
-### Do one demo in processing and arduino,which can communicate with each other
-> #### demo介绍  
+## Arduino  
+> ### Arduino简介  
+  
+> ### Arduino 练习
+
+> ### Arduino & Processing  
+
+#### demo简介  
 
 利用Processing和arduino实现**锻炼手指抓握力**的小游戏，在上个demo的基础上，利用弯曲传感器检测手指弯曲角度，通过手指抓握来替代键盘，可帮助中风患者手部锻炼  
 <!-- > #### 技术原理 

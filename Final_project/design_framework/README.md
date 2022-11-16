@@ -1,5 +1,5 @@
 ## 设计框架  
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Elegami.png" width="80%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Elegami.png" width="50%">  
 
 > ### 项目目的  
 
