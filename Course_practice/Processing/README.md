@@ -18,7 +18,7 @@ p5.js是一个用于创意编码的开源的JavaScript库，面向艺术家、�
 
 #### 参考资料  
 
-#### 演示视频  
+#### 实验演示 
 
 > ### Processing demo    
 
@@ -243,7 +243,7 @@ void display()
 
 [Processing（1.5 一些有趣的库）](https://zhuanlan.zhihu.com/p/349092863) 
 
-#### 演示视频 
+#### 实验演示 
 
 
 <!-- ### Try to communicate with Kinect,Leapmotion or IOT platform -->
