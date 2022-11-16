@@ -3,15 +3,13 @@
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/logo.png" width="80%">  
 
 * [首页](README.md)
-* [操作指南](guide.md)
 * [团队信息](Team.md)
 
 * 课程进度
-    * [project_manage](Course_practice/project_manage/) 
-    * [CAD_design](Course_practice/CAD_design/) 
-    <!-- * [CNC_manufacture](Course_practice/CNC_manufacture/) -->
-    * [Interface_Application_Programming](Course_practice/Interface_Application_Programming/)
+    * [Web](Course_practice/Web/) 
+    * [Fusion360](Course_practice/Fusion360/) 
+    * [Processing](Course_practice/Processing/)
+    * [Arduino](Course_practice/Arduino/)
   
 * 最终项目
-    * [project_hatch](Final_project/project_hatch/) 
-    * [project_start](Final_project/project_start/)
+    * [设计框架](Final_project/design_framework/) 

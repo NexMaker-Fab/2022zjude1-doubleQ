@@ -1,15 +1,34 @@
 ## Processing
-### Learn the basic knowledge about processing and explore new tool similar with processing
+> ### 1 Processing简介 
 
+Processing是一种用于图形设计的编程语言，并有与之配套的集成开发环境。它专注于图形和交互，被电子艺术和视觉设计从业者使用。Processing可以和其他的开源软件或设备结合起来使用，如leap motion，arduino等，因此常运用于新媒体和互动艺术作品中。
 
-### Do one demo in processing which can use mouse or keyboard to interactive
-> #### demo简介  
+> ### 2 相似工具p5.JS简介  
+
+p5.js是一个用于创意编码的开源的JavaScript库，面向艺术家、设计师、教育工作者、初学者使用编码。p5.js具有全套绘图功能，可以将整个浏览器页面设定为画布，利用文本、输入、视频、网络摄像头和声音进行HTML5互动与编写。  
+
+> ### 3 p5.JS demo  
+
+#### demo简介  
+
+尝试使用p5js工具进行创作
+这是一个尝试使用鼠标键盘和麦克风进行交互的小游戏。  
+
+#### 代码解析   
+
+#### 参考资料  
+
+#### 演示视频  
+
+> ### 4 Processing demo    
+
+#### demo简介  
 
 利用Processing实现**锻炼手眼协调能力**的小游戏，从屏幕四面八方随机出现红蓝两种颜色的小球，玩家通过键盘改变中心大球的颜色，若大小球接触时颜色一致，加一分，反之减两分，由于每个小球有不一样的初速度与加速度，因此玩家需要进行一定程度的预判。  
-> #### 技术原理 
+<!-- > #### 技术原理 
 
-Processing类的用法（没写完）
-> #### processing代码解析    
+Processing类的用法（没写完） -->
+#### processing代码解析    
 
 **小球功能实现**
 ```javascript
@@ -215,73 +234,19 @@ void display()
 }
 ```
 在class Enemy()中将小球半径与音量大小关联，使游戏更加生动，巧妙绝伦  
+   
+#### 参考资料  
 
-> #### 参考资料   
+[Processing-对象（class）](https://blog.csdn.net/liuxiao723846/article/details/82051791)  
 
-[Processing-对象（class）]("https://blog.csdn.net/liuxiao723846/article/details/82051791")  
+[二锅头【Processing】雷霆战机](https://www.bilibili.com/video/BV11Z4y1H7hw/?spm_id_from=333.999.0.0&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb)   
 
-[二锅头【Processing】雷霆战机]("https://www.bilibili.com/video/BV11Z4y1H7hw/?spm_id_from=333.999.0.0&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb")   
+[Processing（1.5 一些有趣的库）](https://zhuanlan.zhihu.com/p/349092863) 
 
-[Processing（1.5 一些有趣的库）]("https://zhuanlan.zhihu.com/p/349092863") 
-
-
-### Do one demo in processing and arduino,which can communicate with each other
-> #### demo介绍  
-
-利用Processing和arduino实现**锻炼手指抓握力**的小游戏，在上个demo的基础上，利用弯曲传感器检测手指弯曲角度，通过手指抓握来替代键盘，可帮助中风患者手部锻炼  
-> #### 技术原理 
-
-Processing和arduino利用串口通信（没写完）
-> #### 代码解析    
-
-**processing代码解析**
-```javascript  
-import processing.serial.*;
-Serial myport;
-```  
-加载processing.serial库  
-
-```javascript  
-myport = new Serial(this,"COM6",9600); 
-```  
-在void setup()中设定与arduino串口通信端口号与波特率    
-
-```javascript  
-  if (myport.available() > 0)//如果串口有数据
-  { 
-    int val = myport.read();//读取串口数据  
-    if(val>60){status=0;}
-    if(val<60){status=1;}
-  }  
-```    
-在void draw()中使用myport.read()接收来自arduino发送至串口的数据 
-
-**arduino代码解析**
-```javascript  
-int flexSensorPin = A0;//定义弯曲传感器引脚为A0
-int flexSensorReading;//定义弯曲传感器直接输出的度数
-int flexAngle;//定义转换后的角度
-```  
-一些初始定义   
-
-```javascript  
-void flex_detect()
-{
-    flexSensorReading = analogRead(flexSensorPin);
-    flexAngle = map(flexSensorReading,620,860,0,90);
-    Serial.write(flexAngle); 
-    delay(500);
-}
-```
-在void loop()中读取A0引脚的模拟量，将直接读数映射至0至90°，然后使用Serial.write将数据发送至串口  
-
-> #### 参考资料  
-
-[Serial.print()函数与Serial.write()函数的区别]("https://blog.csdn.net/qq_36895854/article/details/88925939?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166731541816800192274182%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166731541816800192274182&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-88925939-null-null.142^v62^pc_search_tree,201^v3^control_1,213^v1^control&utm_term=serial.write%E5%92%8Cserial.print&spm=1018.2226.3001.4187")  
-
-[Processing+Arduino互动编程]("https://blog.csdn.net/wangpuqing1997/article/details/105201551?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166731442916800180628440%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166731442916800180628440&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-105201551-null-null.142^v62^pc_search_tree,201^v3^control_1,213^v1^control&utm_term=arduino%20processing&spm=1018.2226.3001.4187")   
-
-### Try to communicate with Kinect,Leapmotion or IOT platform
+#### 演示视频 
 
 
-### Interpret and implement design and programming protocols to create a Graphic User Interface (GUI)
+<!-- ### Try to communicate with Kinect,Leapmotion or IOT platform -->
+
+
+<!-- ### Interpret and implement design and programming protocols to create a Graphic User Interface (GUI) -->
