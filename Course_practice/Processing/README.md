@@ -321,8 +321,10 @@ function Circle() {
 
 #### 实验演示      
   
-<iframe src="//player.bilibili.com/player.html?aid=432660113&bvid=BV1mG411F7FE&cid=894145597&page=1"> </iframe>
-
+<iframe frameborder="0" width="670px" height="442px"
+src="//player.bilibili.com/player.html?aid=432660113&bvid=BV1mG411F7FE&cid=894145597&page=1" allowfullscreen="true"> 
+</iframe>
+  
 #### 参考资料  
 
 [openprocessing](https://openprocessing.org/)  
