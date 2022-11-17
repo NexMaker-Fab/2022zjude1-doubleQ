@@ -320,8 +320,8 @@ function Circle() {
 利用键盘和鼠标交互，完成对于小船的控制，按下任意键小船前进50px，点击鼠标出现海水波纹   
 
 #### 实验演示      
-
-<iframe height=498 width=510 src="D:\浙大\课程-设计工程学\p5js.mp4">
+  
+<iframe src="//player.bilibili.com/player.html?aid=432660113&bvid=BV1mG411F7FE&cid=894145597&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 参考资料  
 
@@ -544,12 +544,12 @@ void display()
    
 #### 实验演示 
 
+<iframe src="//player.bilibili.com/player.html?aid=817682387&bvid=BV1CG4y1x7pb&cid=894144931&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
 
 <!-- ### Try to communicate with Kinect,Leapmotion or IOT platform -->
 
 
 <!-- ### Interpret and implement design and programming protocols to create a Graphic User Interface (GUI) -->
-
 #### 参考资料  
 
 [Processing-对象（class）](https://blog.csdn.net/liuxiao723846/article/details/82051791)  
