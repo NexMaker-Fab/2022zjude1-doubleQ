@@ -540,14 +540,6 @@ void display()
 ```
 在class Enemy()中将小球半径与音量大小关联，使游戏更加生动，巧妙绝伦  
    
-#### 参考资料  
-
-[Processing-对象（class）](https://blog.csdn.net/liuxiao723846/article/details/82051791)  
-
-[二锅头【Processing】雷霆战机](https://www.bilibili.com/video/BV11Z4y1H7hw/?spm_id_from=333.999.0.0&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb)   
-
-[Processing（1.5 一些有趣的库）](https://zhuanlan.zhihu.com/p/349092863) 
-
 #### 实验演示 
 
 
@@ -555,3 +547,11 @@ void display()
 
 
 <!-- ### Interpret and implement design and programming protocols to create a Graphic User Interface (GUI) -->
+
+#### 参考资料  
+
+[Processing-对象（class）](https://blog.csdn.net/liuxiao723846/article/details/82051791)  
+
+[二锅头【Processing】雷霆战机](https://www.bilibili.com/video/BV11Z4y1H7hw/?spm_id_from=333.999.0.0&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb)   
+
+[Processing（1.5 一些有趣的库）](https://zhuanlan.zhihu.com/p/349092863)

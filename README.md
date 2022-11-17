@@ -1,4 +1,5 @@
-> ### 关于我们  
+> ### 关于我们    
+
 因为所有人都是用qq邮箱注册的Github，所以我们的组名叫DoubleQ  
 
 > ### 团队成员  
@@ -9,11 +10,11 @@
 
 **舒诗琦**  
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/ssq.png" width="30%">     
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/ssq 1.png" width="10%">     
 
 **李正可**   
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/lzk.png" width="30%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/lzk.png" width="10%">  
 
 Hi！我是Bella！中文名李正可，游戏名BloodyBellaLee。叫我coco，小可也都可以！   
 设计爱好者初学者   
@@ -30,13 +31,13 @@ Hi！我是Bella！中文名李正可，游戏名BloodyBellaLee。叫我coco，�
 
 **程艺明**  
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/cym.png" width="30%">   
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/cym.png" width="10%">   
 
 I graduated from Northeast Forestry University with a bachelor's degree. I can use modeling software such as proe,Rhino and alias, but I lack programming ability. I like reading, drawing and singing. I hope to improve my software and programming ability and make progress in teamwork through the course of design engineering.
 
 **李啸龙**  
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/lxl.png" width="30%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/lxl.png" width="10%">  
 
 🧐 Nice to meet you!  
 I'm Li Xiaolong or you can call me Lionel.  

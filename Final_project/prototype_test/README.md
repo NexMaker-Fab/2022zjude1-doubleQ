@@ -1,5 +1,4 @@
-## 原型实验  
-  
+ 
 > ### 立体书结构探索
 <iframe src="//player.bilibili.com/player.html?aid=901915605&bvid=BV1EP4y1S7LF&cid=873138420&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false"> </iframe>
 
@@ -7,7 +6,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/zhi1.jpg" width="80%">  
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/zhi2.jpg" width="80%">  
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/zhi3.jpg" width="80%"> 
 
 > ### 手持识别器制作  
 
@@ -27,8 +25,24 @@
 DFPlayer Mini是一款小巧且价格低廉的MP3模块，在本设计中选用直径23mm的圆形扬声器，接驳到DFPlayer Mini的SPK引脚，将需要呈现的语音文件以序号命名到TF卡中，DFPlayer Mini通过串口通信将音频数据传输给主控芯片，当匹配到特定UID时，播放特定序号音频。  
 
 **实物制作**  
-采用立创EDA，绘制相关原理图PCB，进行电路板打样与焊接，实物如图所示：  
+采用立创EDA，绘制相关原理图与PCB，进行电路板打样与焊接，如图所示： 
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Schematic.png" width="100%"> 
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/PCB_PCB2.png" width="100%">    
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/shiwutu.jpg" width="100%">    
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Frame 2.png  " width="100%">    
+**PCB渲染**
 
-**演示视频** 
+在立创商城中找到想要的元器件编号，编辑下符号名称即可保存为自己的元件库，选择里面自带的3d模型封装，即可以实现step文件带元器件导出，再导入至Fusion360，与其他模组进行装配
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/pcb_fusion.jpg" width="100%">  
+
+导出step文件，进入Keyshot渲染，渲染如图所示：  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Frame 2.png" width="100%">  
+
+**演示视频**   
+ 
+
+**参考资料** 
+ 
+[如何将立创EDA中的元器件的原理图/封装和3D模型导入AD的库中_hzy_best的博客-CSDN博客_立创原理图怎么导入ad](https://blog.csdn.net/hzy_best/article/details/123767574)
+  
+[基于立创EDA Pro和KeyShot进行简单PCB渲染](https://www.bilibili.com/video/BV1gW4y1e79R/?zw&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb)
