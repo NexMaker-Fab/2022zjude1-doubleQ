@@ -2,7 +2,7 @@
 
 使用激光切割机
 
-<iframe frameborder="0" width="600px" height="500px"
+<iframe frameborder="0" width="960px" height="540px"
 src="//player.bilibili.com/player.html?aid=775162697&bvid=BV1w14y1H7xZ&cid=894148406&page=1" allowfullscreen="true"> 
 </iframe>
 
@@ -13,11 +13,11 @@ src="//player.bilibili.com/player.html?aid=775162697&bvid=BV1w14y1H7xZ&cid=89414
 
 > ### 电路探索  
 
-<iframe frameborder="0" width="600px" height="500px"
+<iframe frameborder="0" width="960px" height="540px"
 src="//player.bilibili.com/player.html?aid=901915605&bvid=BV1EP4y1S7LF&cid=873138420&page=1" allowfullscreen="true"> 
 </iframe>
 
-<iframe frameborder="0" width="600px" height="500px"
+<iframe frameborder="0" width="960px" height="540px"
 src="//player.bilibili.com/player.html?aid=816920838&bvid=BV1wG4y1h7Ua&cid=873137062&page=1" allowfullscreen="true"> 
 </iframe>
 
@@ -46,10 +46,12 @@ DFPlayer Mini是一款小巧且价格低廉的MP3模块，在本设计中选用�
 
 **PCB渲染**
 
-在立创商城中找到想要的元器件编号，编辑下符号名称即可保存为自己的元件库，选择里面自带的3d模型封装，即可以实现step文件带元器件导出，再导入至Fusion360，与其他模组进行装配
+在立创商城中找到想要的元器件编号，编辑下符号名称即可保存为自己的元件库，选择里面自带的3d模型封装，即可以实现step文件带元器件导出，再导入至Fusion360，与其他模组进行装配  
+
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/pcb_fusion.jpg" width="60%">  
 
-导出step文件，进入Keyshot渲染，渲染如图所示：  
+导出step文件，进入Keyshot渲染，渲染如图所示： 
+
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Frame 2.png" width="60%">  
 
 **演示视频**   

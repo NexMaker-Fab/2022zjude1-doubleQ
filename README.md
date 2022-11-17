@@ -10,7 +10,7 @@
 
 **舒诗琦**  
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/ssq 1.png" width="20%">     
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/ssq3.png" width="20%">     
 
 **李正可**   
 
