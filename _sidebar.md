@@ -3,7 +3,6 @@
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/logo.png" width="80%">  
 
 * [首页](README.md)
-* [团队信息](Team.md)
 
 * 课程进度
     * [Web](Course_practice/Web/) 
