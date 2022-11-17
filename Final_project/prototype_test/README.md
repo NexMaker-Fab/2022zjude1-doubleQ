@@ -34,17 +34,17 @@ DFPlayer Mini是一款小巧且价格低廉的MP3模块，在本设计中选用�
 
 **实物制作**  
 采用立创EDA，绘制相关原理图与PCB，进行电路板打样与焊接，如图所示： 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Schematic.png" width="100%"> 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/PCB_PCB2.png" width="100%">    
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/shiwutu.jpg" width="100%">    
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Schematic.png" width="60%"> 
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/PCB_PCB2.png" width="60%">    
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/shiwutu.jpg" width="60%">    
 
 **PCB渲染**
 
 在立创商城中找到想要的元器件编号，编辑下符号名称即可保存为自己的元件库，选择里面自带的3d模型封装，即可以实现step文件带元器件导出，再导入至Fusion360，与其他模组进行装配
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/pcb_fusion.jpg" width="100%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/pcb_fusion.jpg" width="60%">  
 
 导出step文件，进入Keyshot渲染，渲染如图所示：  
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Frame 2.png" width="100%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Frame 2.png" width="60%">  
 
 **演示视频**   
  

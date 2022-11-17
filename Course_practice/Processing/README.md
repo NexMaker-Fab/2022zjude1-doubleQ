@@ -321,7 +321,7 @@ function Circle() {
 
 #### 实验演示      
   
-<iframe src="//player.bilibili.com/player.html?aid=432660113&bvid=BV1mG411F7FE&cid=894145597&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=432660113&bvid=BV1mG411F7FE&cid=894145597&page=1" scrolling="no" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 参考资料  
 
@@ -544,7 +544,7 @@ void display()
    
 #### 实验演示 
 
-<iframe src="//player.bilibili.com/player.html?aid=817682387&bvid=BV1CG4y1x7pb&cid=894144931&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
+<iframe src="//player.bilibili.com/player.html?aid=817682387&bvid=BV1CG4y1x7pb&cid=894144931&page=1" scrolling="no" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>  
 
 <!-- ### Try to communicate with Kinect,Leapmotion or IOT platform -->
 
