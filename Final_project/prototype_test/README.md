@@ -55,10 +55,9 @@ DFPlayer Mini是一款小巧且价格低廉的MP3模块，在本设计中选用�
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Frame 2.png" width="60%">  
 
 **演示视频**   
- 
 
 **参考资料** 
- 
+
 [如何将立创EDA中的元器件的原理图/封装和3D模型导入AD的库中_hzy_best的博客-CSDN博客_立创原理图怎么导入ad](https://blog.csdn.net/hzy_best/article/details/123767574)
   
 [基于立创EDA Pro和KeyShot进行简单PCB渲染](https://www.bilibili.com/video/BV1gW4y1e79R/?zw&vd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb)
