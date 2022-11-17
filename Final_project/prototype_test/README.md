@@ -3,7 +3,11 @@
 > ### 立体书结构探索
 <iframe src="//player.bilibili.com/player.html?aid=901915605&bvid=BV1EP4y1S7LF&cid=873138420&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false"> </iframe>
 
-<iframe src="//player.bilibili.com/player.html?aid=816920838&bvid=BV1wG4y1h7Ua&cid=873137062&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false"> </iframe>  
+<iframe src="//player.bilibili.com/player.html?aid=816920838&bvid=BV1wG4y1h7Ua&cid=873137062&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
+
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/zhi1.jpg" width="80%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/zhi2.jpg" width="80%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/zhi3.jpg" width="80%"> 
 
 > ### 手持识别器制作  
 
