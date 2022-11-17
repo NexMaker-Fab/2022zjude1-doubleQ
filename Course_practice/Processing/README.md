@@ -268,7 +268,7 @@ for(var i = 0; i < 10; i ++){
       //clouds have jitter movement in y-axis
   cloudY[i] = cloudY[i] 
 
-//é‡æ–°å¼€å§‹
+//
   if (cloudX[i] < -width-50) {
     cloudX[i] = width-50;
       }
@@ -317,11 +317,13 @@ function Circle() {
      }
   }
 ```  
-利用键盘和鼠标交互，完成对于小船的控制，按下任意键小船前进50px，点击鼠标出现海水波纹  
+利用键盘和鼠标交互，完成对于小船的控制，按下任意键小船前进50px，点击鼠标出现海水波纹   
+
+#### 实验演示  
 
 #### 参考资料  
 
-#### 实验演示 
+[openprocessing](https://openprocessing.org/)  
 
 > ### Processing demo    
 
