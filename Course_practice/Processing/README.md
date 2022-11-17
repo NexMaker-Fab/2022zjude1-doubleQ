@@ -321,7 +321,7 @@ function Circle() {
 
 #### 实验演示      
   
-<iframe src="//player.bilibili.com/player.html?aid=432660113&bvid=BV1mG411F7FE&cid=894145597&page=1" scrolling="no" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=432660113&bvid=BV1mG411F7FE&cid=894145597&page=1"> </iframe>
 
 #### 参考资料  
 
