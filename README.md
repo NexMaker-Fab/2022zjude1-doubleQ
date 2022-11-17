@@ -10,11 +10,11 @@
 
 **舒诗琦**  
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/ssq 1.png" width="10%">     
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/ssq 1.png" width="20%">     
 
 **李正可**   
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/lzk.png" width="10%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/lzk.png" width="20%">  
 
 Hi！我是Bella！中文名李正可，游戏名BloodyBellaLee。叫我coco，小可也都可以！   
 设计爱好者初学者   
@@ -25,19 +25,21 @@ Hi！我是Bella！中文名李正可，游戏名BloodyBellaLee。叫我coco，�
 全部球类运动和全部猫猫狗狗狂热者  
 旅游玩耍快乐追求者  
 
-**李嘉钰**
+**李嘉钰**  
+
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/ljy.png" width="20%"> 
 
 请大家叫我joylee，当然要天天开心所以就是joy了。本人多多尝试，什么都喜欢一点点，偏爱一些有趣的交互。为了减少emo，需要一些多巴胺，请大家和我多出去吃吃喝喝！
 
 **程艺明**  
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/cym.png" width="10%">   
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/cym.png" width="20%">   
 
 I graduated from Northeast Forestry University with a bachelor's degree. I can use modeling software such as proe,Rhino and alias, but I lack programming ability. I like reading, drawing and singing. I hope to improve my software and programming ability and make progress in teamwork through the course of design engineering.
 
 **李啸龙**  
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/lxl.png" width="10%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/lxl.png" width="20%">  
 
 🧐 Nice to meet you!  
 I'm Li Xiaolong or you can call me Lionel.  
