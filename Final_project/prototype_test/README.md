@@ -1,9 +1,9 @@
 ## 原型实验  
   
 > ### 立体书结构探索
-<iframe src="//player.bilibili.com/player.html?aid=901915605&bvid=BV1EP4y1S7LF&cid=873138420&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=901915605&bvid=BV1EP4y1S7LF&cid=873138420&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false"> </iframe>
 
-<iframe src="//player.bilibili.com/player.html?aid=816920838&bvid=BV1wG4y1h7Ua&cid=873137062&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
+<iframe src="//player.bilibili.com/player.html?aid=816920838&bvid=BV1wG4y1h7Ua&cid=873137062&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false"> </iframe>  
 
 > ### 手持识别器制作  
 
@@ -12,7 +12,8 @@
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/功能框架.png" width="100%">   
     
 
-**主控芯片**   
+**主控芯片**  
+
 本设计使用ESP12F作为主控芯片。  
 
 **识别模块**  
