@@ -157,8 +157,11 @@ void loop (void)
 
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/LCD实物.png" width="80%">    
 
-#### 参考资料  
+#### 参考资料   
 
+[Liquid Crystal Displays (LCD) with Arduino](https://docs.arduino.cc/learn/electronics/lcd-displays/ )  
+ 
+ 
 > ### Arduino & Processing 手拉手demo 
 
 #### demo简介  

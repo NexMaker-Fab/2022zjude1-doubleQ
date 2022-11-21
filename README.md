@@ -6,6 +6,8 @@
 
 **张思洲**   
 
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/zsz.png" width="20%">  
+
 大家好，我叫张思洲，希望能和大家成为好朋友！
 
 **舒诗琦**  
@@ -39,7 +41,7 @@ I graduated from Northeast Forestry University with a bachelor's degree. I can u
 
 **李啸龙**  
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/lxl.png" width="20%">  
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/lxl2.png" width="20%">  
 
 🧐 Nice to meet you!  
 I'm Li Xiaolong or you can call me Lionel.  

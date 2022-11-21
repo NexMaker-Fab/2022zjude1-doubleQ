@@ -56,7 +56,11 @@ DFPlayer Mini是一款小巧且价格低廉的MP3模块，在本设计中选用�
 
 **演示视频**   
 
+
+
 **参考资料** 
+
+[RFID-RC522读IC卡门禁原理及破解防御](https://www.cnblogs.com/leytton/p/8253261.html)
 
 [如何将立创EDA中的元器件的原理图/封装和3D模型导入AD的库中_hzy_best的博客-CSDN博客_立创原理图怎么导入ad](https://blog.csdn.net/hzy_best/article/details/123767574)
   
