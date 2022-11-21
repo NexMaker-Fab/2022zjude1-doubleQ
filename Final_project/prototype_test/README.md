@@ -39,7 +39,8 @@ src="//player.bilibili.com/player.html?aid=816920838&bvid=BV1wG4y1h7Ua&cid=87313
 DFPlayer Mini是一款小巧且价格低廉的MP3模块，在本设计中选用直径23mm的圆形扬声器，接驳到DFPlayer Mini的SPK引脚，将需要呈现的语音文件以序号命名到TF卡中，DFPlayer Mini通过串口通信将音频数据传输给主控芯片，当匹配到特定UID时，播放特定序号音频。  
 
 **实物制作**  
-采用立创EDA，绘制相关原理图与PCB，进行电路板打样与焊接，如图所示： 
+采用立创EDA，绘制相关原理图与PCB，进行电路板打样与焊接，如图所示：  
+ 
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/Schematic.png" width="60%"> 
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/PCB_PCB2.png" width="60%">    
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/shiwutu.jpg" width="60%">    

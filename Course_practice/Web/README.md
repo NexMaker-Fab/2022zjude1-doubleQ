@@ -1,4 +1,4 @@
-## 网站搭建
+> ### 网站搭建
 
 1. 使用doscify搭建 下载 node.js
 2. 命令行键入 npm i docsify-cli -g 安装 docsify-cli 工具
@@ -11,7 +11,8 @@
 9. 键入`*[操作指南](guide)`
 
 
-## 图片管理 
+> ### 图片管理
+ 
 选择开源免费图片上传与管理工具Picgo
 1. 安装[picgo](https://github.com/Molunerfinn/PicGo/releases)
 2. 在github上新建图片仓库
@@ -26,6 +27,6 @@
 
 ## 资料参考  
 
-[使用docsify搭建笔记博客]("https://www.bilibili.com/video/BV1kT4y1T7wY/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click")  
+[使用docsify搭建笔记博客](https://www.bilibili.com/video/BV1kT4y1T7wY/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click)  
 
-[PicGo+Github图床的正确打开方式]("https://www.bilibili.com/video/BV1Ui4y1x7Cq/?spm_id_from=333.337.search-card.all.clickvd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb")
+[PicGo+Github图床的正确打开方式](https://www.bilibili.com/video/BV1Ui4y1x7Cq/?spm_id_from=333.337.search-card.all.clickvd_source=63a4e1f90cdfa681f6b6cfeefbbcc3eb)

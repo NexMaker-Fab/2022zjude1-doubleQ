@@ -10,11 +10,12 @@
 
 LCD1602液晶显示器是广泛使用的一种字符型液晶显示模块。所谓的1602是指显示的时候，有2行内容每行有16个字符，其实这类字符型产品都可以这样解读比如：lcd12864就是有128行64列。目前市面上字符液晶大多数是基于HD44780液晶芯片的，控制原理大多相同。因此基于HD44780写的液晶控制程序可以很方便适用于市面上大多数字符型液晶产品。  
 
-<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/LCD引脚.png" width="80%">   
- 
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/LCD引脚.png" width="80%">  
+
 根据表中可知，15、16号引脚用于背光，三号引脚用于液晶显示偏压，因此15、16号不接线的情况下，1602仍可以正常显示文本信息。而偏压信号则可以决定液晶模块的电压控制的，可以决定液晶显示屏的通光量（明暗程度）。  
 
-#### 接线图   
+#### 接线图    
+ 
 <img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/LCD接线.png" width="80%">    
 
 #### 代码解析   
@@ -161,7 +162,7 @@ void loop (void)
 
 [Liquid Crystal Displays (LCD) with Arduino](https://docs.arduino.cc/learn/electronics/lcd-displays/ )  
  
- 
+
 > ### Arduino & Processing 手拉手demo 
 
 #### demo简介  
