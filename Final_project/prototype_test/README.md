@@ -57,7 +57,9 @@ DFPlayer Mini是一款小巧且价格低廉的MP3模块，在本设计中选用�
 
 **演示视频**   
 
-
+<iframe frameborder="0" width="960px" height="540px"
+src="//player.bilibili.com/player.html?aid=605406421&bvid=BV1J84y1C7sQ&cid=899553493&page=1" allowfullscreen="true"> 
+</iframe>
 
 **参考资料** 
 
