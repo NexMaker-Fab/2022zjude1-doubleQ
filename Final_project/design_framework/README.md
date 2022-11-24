@@ -32,3 +32,5 @@
 2. 电阻———森林——河流中放石头，随着石头的越来越多，河流声音逐渐变小，
 3. 气体检测装置+电机——平原——玩家给平原上的风车吹气，让风车旋转
 4. 光敏电阻+发光二极管——海边——灯塔，玩家控制天色变暗，灯塔开始发光
+
+<img src="https://cdn.jsdelivr.net/gh/zimaStrawer/doubleQ_Image/zhigai.png" width="80%"> 
